@@ -1,0 +1,16 @@
+1. Cadastro de Medicamentos 
+O sistema deve permitir que a farmácia registre novos medicamentos.
+•	Medicamentos: Nome do medicamento.
+•	Laboratório: Nome do laboratório. 
+•	Preço: Valor de venda dos medicamentos.
+•	Quantidade em Estoque: Número de medicamentos disponíveis.
+2. Cadastro de Clientes
+O sistema deve permitir o registro de novos clientes. As informações são pedidas no caixa:
+•	Nome: Nome completo do cliente.
+•	Contato: Informações de contato, como telefone ou e-mail.
+•	Identidade: Informações de dados do cliente.  
+3. Registro de Vendas
+O sistema deve permitir o registro de vendas realizadas. As funcionalidades incluem:
+•	Seleção dos Medicamentos: Escolha dos medicamentos vendido a partir do cadastro.
+•	Seleção de Cliente: Escolha do cliente que realizou a compra.
+•	Data da Venda: Registro da data em que a venda foi feita.
